@@ -1,8 +1,5 @@
 # IMDB-clone app
 
-![](images/home_page.png)
-![](images/movie_page.png)
-
 
 A mini IMDB clone app in which we can search movies based on OMDB API, with search suggestions. 
 Clicking on a particular movie card opens a new movie page for more info.
